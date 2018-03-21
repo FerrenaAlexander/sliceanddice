@@ -1,4 +1,4 @@
-Proposal for EEEB Project: tool for gene coexpression analysis
+Proposal for PDSB Project: tool for gene coexpression analysis
 
 I am proposing to create a tool that will facilitate gene coexpression analysis on single-cell RNA seq data. This is a very new technology with increasingly broad application. Data is being generated at breakneck speed. The bottleneck of the research pipeline is increasingly shifting toward data analysis. With single-cell data in particular, there is a lack of consensus on best practices for analysis and lack of clarity on how to apply existing algorithms and analysis tools. Thus, it would be beneficial to work on a clear, easy to utilize tool for the analysis of single cell data toward the goal of coespression analysis, which is one major goal of RNA-seq. Specifically, the tool I intend to work on should be able to run locally by iteratively slicing large datasets and applying analytical methods. 
 
