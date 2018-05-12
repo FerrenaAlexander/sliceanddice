@@ -7,6 +7,8 @@ This is the repository for a tool and project currently called ```sliceanddice``
 
 fork and clone into this repository to utilize ```sliceanddice```.
 
+Required dependencies include python 3.6, along with python packges including ```warnings```, ```gzip```, ```numpy```, ```toyplot```, ```pandas```, ```pymc3```, ```theano.tensor```, ```statsmodels.stats.moment_helpers```, ```h5py```, and ```dask```. These should be installable through conda if the user does not already have them.
+
 
 ### Usage Examples
 
